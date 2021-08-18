@@ -1,0 +1,25 @@
+.grid-item {
+  width: 70%;
+  display: grid;
+  /* grid-template-columns: repeat(3, 1fr); */
+  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+  gap: 5px;
+  background-color: lightgray;
+  margin-left: 20px;
+  margin-top: 10px;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+.grid__main {
+  display: flex;
+  flex-direction: row;
+}
+
+.cart-items {
+  background-color: lightgray;
+  margin-left: 10px;
+  margin-top: 10px;
+  border-radius: 5px;
+  width: 25%;
+}

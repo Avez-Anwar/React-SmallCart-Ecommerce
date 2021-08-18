@@ -1,0 +1,33 @@
+.cartId__content {
+  display: flex;
+  justify-content: space-evenly;
+  text-align: justify;
+}
+
+.cartId__name {
+  align-items: left;
+}
+.cartId__buttonOne {
+  align-items: center;
+}
+
+.cartId__buttonAlert button {
+  background-color: rgb(218, 167, 38);
+  border: none;
+  padding: 8px;
+  cursor: pointer;
+  border-radius: 3px;
+}
+
+.cartId__buttonGreen {
+  background-color: rgb(64, 148, 64);
+  border: none;
+  width: 40px;
+  align-items: center;
+}
+.cartId__buttonRed {
+  background-color: rgb(201, 55, 55);
+  width: 40px;
+
+  border: none;
+}

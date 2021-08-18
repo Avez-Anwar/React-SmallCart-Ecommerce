@@ -1,0 +1,17 @@
+.header__main {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0px 20px;
+  margin: 7px 20px;
+  background-color: lightgrey;
+  border-radius: 5px;
+  color: rgb(111, 33, 236);
+}
+
+.header__main span {
+  display: inline-block;
+  margin: -1px 0px 0px 61px;
+  font-size: 18px;
+  cursor: pointer;
+}

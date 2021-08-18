@@ -1,0 +1,29 @@
+.display-data {
+  line-height: 10px;
+  text-align: left;
+  margin-left: 20px;
+  margin-top: 40px;
+}
+.display-data p:nth-child(2) {
+  font-family: cursive;
+}
+
+.display-data img {
+  width: 88%;
+  height: 200px;
+  object-fit: cover;
+  border-radius: 5px;
+}
+.display-data img {
+  width: 88%;
+  height: 200px;
+  object-fit: cover;
+  border-radius: 5px;
+}
+.display-data button {
+  background-color: rgb(218, 167, 38);
+  border: none;
+  padding: 8px;
+  cursor: pointer;
+  border-radius: 3px;
+}
